@@ -3,3 +3,7 @@
 # 阿泽杂货铺
 
 ssr://NDUuODQuMS4yNTA6MjIzMzphdXRoX2FlczEyOF9zaGExOmFlcy0yNTYtY2ZiOmh0dHBfc2ltcGxlOk1URXhNakl5
+
+# 阿泽杂货铺
+
+ssr://NDcuMjQwLjY5LjE2MjoyMzM1OmF1dGhfYWVzMTI4X3NoYTE6YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6TVRFeE1EQXc
